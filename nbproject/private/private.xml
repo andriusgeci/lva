@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/MyReviews.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/checkoutComplete.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/js/jquery-2.2.0.min.map</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/userProfile.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/updateAddress.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/movieDetails.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/css/indexCSS.css</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/existingCustomerError.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/editLastName.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/ComingSoon.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/OrderHistory.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/existingCustomerErrorAdmin.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/modernizr.custom.86080.js</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/MovieCharts.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/src/java/SQL/movlva.sql</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/editUserDetails.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/loginFailure.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/src/java/Business/Address.java</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/src/java/Command/AddAddressCommand.java</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/js/jPages.js</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/Addresses.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/js/jquery-1.10.2.min.js</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/src/java/DAO/Dao.java</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/template.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/Success.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/src/java/DAO/AddressDao.java</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/Checkout.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/admin.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/changePassword.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/editEmail.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/register.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/shop.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/addAddress.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/about.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/checkEmail.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/editMovieDetails.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/editPassword.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/editName.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/logout.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/forgotPassword.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/NewReleases.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/index.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/error.html</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/login.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/web/shoppingCart.jsp</file>
+            <file>file:/C:/Users/andrius/Google%20Drive/LVA_Movies_Andrius_Vitalijus_Lorenas/LVA_Movies/src/java/DAO/MyDataSource.java</file>
+        </group>
+    </open-files>
+</project-private>

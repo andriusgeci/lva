@@ -1,0 +1,232 @@
+
+body{
+    background-image: url(../images/pattern.png), url(../images/xx.jpg) ;
+    background-color: transparent;
+    background-repeat: repeat, no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: auto, cover;
+    -moz-background-size: auto, cover;
+    -o-background-size: auto, cover;
+    background-size: auto, cover;
+    color: #000;
+    font-family: 'Josefin Slab', Arial, sans-serif;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    height:100%;
+}
+.container{
+    height: 100%;
+    width:  100%;
+    position: ABSOLUTE;
+    /* width: 960px; */
+    /* margin:auto; */
+}
+
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.clr{
+    clear: both;
+}
+.content{
+    
+    width:580px;
+    padding-top: 200px;
+    margin: 0 auto;
+    min-height:100%;
+}
+.footer {
+	text-align: center;
+	width:100%;
+	height: 2%;
+	position: ABSOLUTE;
+	bottom:0;
+	left:0;
+	padding-bottom: 10px;
+	background-color: beige;
+}
+
+h1{
+    position: absolute;
+    margin:0px;
+    padding:20px;
+    font-size:42px;
+    color:#fff;
+    text-align:left;
+    font-weight:400;
+    text-align:left;
+}
+h1 span{
+    font-size:22px;
+    color:#ddd;
+    padding-top:10px;
+}
+/* top header */
+#header{
+    /*    font-family: "Open Sans", Arial, Helvetica, Geneva, sans-serif;*/
+    font-family: 'Josefin Slab', Arial, sans-serif;
+    height: 34px;
+    font-size: 18px;
+    background: #252525;
+    color: white;
+    padding-right: auto;
+    opacity: 0.9;
+    -moz-box-shadow: 1px 0px 2px #000;
+    -webkit-box-shadow: 1px 0px 2px #000;
+    box-shadow: 1px 0px 2px #000;
+}
+
+#header #wrapper a {
+    padding: 8px 5px;
+    margin-left: 0px;
+}
+
+#header a{
+    padding: 0px 10px;
+    letter-spacing: 1px;
+    color: #ddd;
+    display: block;
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    padding: 0px;
+}
+#header a:hover{
+    color: #18C9D2;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+#header span.right{
+    float: right;
+    padding: 8px 0px;
+    margin-right: 0px;
+}
+#header span.right a{    
+    float: none;
+    display: inline;
+}
+
+
+
+
+
+.more ul{
+    text-transform:uppercase;
+    font-size:11px;
+    padding:50px 0px 30px 20px;
+    height:30px;
+    clear:both;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    width:830px;
+    margin:0 auto;
+    color:#fff;
+}
+.more ul li{
+    float:left;
+    margin:0px 2px;
+}
+.more ul li.selected a,
+.more ul li.selected a:hover{
+    background:#000;
+    color:#fff;
+    text-shadow:none;
+}
+.more ul li a{
+    text-shadow:1px 1px 1px #fff;
+    color:#555;
+    background:#f7f7f7;
+    padding:3px 6px;
+    -moz-box-shadow:1px 1px 2px rgba(0,0,0,0.6);
+    -webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.6);
+    box-shadow:1px 1px 2px rgba(0,0,0,0.6);
+}
+.more ul li a:hover{
+    background:#000;
+    color:#fff;
+    text-shadow:none;
+}
+.center{
+    width: 500px;
+    padding-top:  350px;
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+}
+.center a{
+    color: red;
+}
+.center a:hover{
+    color: #4195fc;
+}
+.container111{
+            margin-top: 0;
+    position: relative;
+    z-index: 100;
+    background-color: #f7f7f7;
+}
+.containerInner{
+        width: 1100px;
+    margin: 0px auto;
+}
+.twoColumns{
+    width: 100%;
+    background-color: blue;
+}
+.column1{
+    width: 66.66%;
+    float: left;
+    background-color: yellow;
+    position: relative;
+}
+.column2{
+    width: 33.33%;
+    float: left;
+    background-color: gainsboro;
+}
+
+.button {
+
+    /*    color:#28aadc;*/
+    color:#4195fc;
+    background-color:#fff;
+    border:2px 
+
+        /*    solid #28aadc;*/
+        solid #4195fc;
+    border-radius:0;
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    -o-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+}
+.button:hover {
+    color:#fff;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+    /*    background-color:#28aadc;*/
+    background-color: #4195fc;
+    cursor: pointer;
+}
+
+.button--block { 
+    display:block;
+    text-align:center
+}
+/*.button--inline-block:not(pre)>code{
+    display:inline-block
+}*/
+.button--small {
+    padding:4px 6px
+}
+.button--medium {
+    padding:12px 18px
+}

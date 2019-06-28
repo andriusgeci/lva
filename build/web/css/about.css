@@ -1,0 +1,70 @@
+
+/* 
+    Created on : 28-Mar-2016, 17:23:24
+    Author     : VN-PC
+*/
+
+#imgbox{
+    box-shadow: 2px 2px 11px #CCCBCB;
+    float: left;
+    padding-top: 15px;
+    margin: 0px;
+    width: 100%; 
+}
+
+#imgbox td{
+    padding-top: 65px;
+    padding-left: 65px;
+    padding-bottom: 65px;
+    width:0%;
+    
+}
+
+#descriptionbox{
+    box-shadow: 2px 2px 11px #CCCBCB;
+    float: left;
+    margin-top:  15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+    text-align: center;
+    padding-left: 15px;
+}
+
+#leftcolumn {
+    float: left;
+    width: 40%;
+}
+
+#definitionbox{
+    box-shadow: 2px 2px 11px #CCCBCB;
+    padding: 5px 24px 5px 24px;
+    margin-bottom: 15px;
+}
+
+#rightcolumn {
+    float: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 60%;
+    text-align: center;
+}
+
+.addressbox{
+    box-shadow: 2px 2px 11px #CCCBCB;
+    float: left;
+    padding: 5px 15px 5px 5px;
+    margin-left: 20px;    
+}
+
+.map{
+    float: left;
+    width: 500px;     
+}
+
+.adr{
+   float: left;
+   text-align: left;
+   margin-left: 20px;
+}
+

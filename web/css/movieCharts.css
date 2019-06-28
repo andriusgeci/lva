@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 26, 2016, 7:52:23 PM
+    Author     : Lorenas Orleckas D00157671
+*/
+body{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.45em;  
+}
+.list-item{ 
+    height: 350px;
+}
+#movies li {
+    box-shadow: 2px 2px 11px #CCCBCB;
+    width: 100%;
+    float: left;
+    margin: 0px 0px 15px 0px;
+    height: 350px; 
+}
+
+#movies #myForm{
+    float:left;
+    width: 258px;  
+    height: 350px;
+}
+
+#MovieChartPlace{
+    float:left;
+    width: 20px;
+    text-align: center;
+    padding: 20px; 
+}
+
+#movieInfo {
+    float:left;
+   width: 160px;
+    padding: 5px;
+    margin: 0px;
+    margin-top: 1px;
+    padding-top: 10px;
+    text-align: center;
+    border-bottom: 1px solid white; 
+}
+#pTitleName{
+    padding-top: 90px;
+    color:black;
+}
+#ratingForm{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 31px;
+    width: 90px;
+}
+#movieShopValue{
+   margin-top: 19px;
+}
+#outOfStock{
+    padding-top: 100px;
+}
+#movieDescription{
+    float:left;
+    width: 617px;
+    height: 290px;
+    padding: 30px;
+    text-align: center;
+    border-right: 1px solid rgba(0, 0, 10, .1);   
+}
+#movieDescription p{
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.45em;
+}

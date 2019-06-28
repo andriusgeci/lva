@@ -1,0 +1,241 @@
+/* 
+    Created on : Feb 25, 2016, 5:20:02 PM
+    Author     : Lorenas Orleckas D00157671
+*/
+
+#cart{
+    border-collapse: collapse;
+    text-align: center;
+    box-sizing: border-box;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+
+}
+#inputQuantity {
+    height: 25px;
+    margin: 0px;
+    width: 40px;
+    text-align: center;
+}
+
+tr{
+    display: block;
+    box-shadow: 2px 2px 11px #CCCBCB;
+    padding: 5px;  
+}
+#img1{
+    float: left; 
+    width: 150px;
+}
+section {
+    margin-left: 150px;
+    height: 223px;;
+}
+h3{
+    margin: 0;
+    padding: 15px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+p {
+    text-align: center;
+}
+tbody:before {
+    content: "-";
+    display: block;
+    line-height: 1em;
+    color: transparent;   
+}
+tfoot:before {
+    content: "-";
+    display: block;
+    line-height: 1em;
+    color: transparent;   
+}
+td.productname {width: 810px;}
+.price {
+    width: 80px;
+}
+.qty {
+    width: 60px;
+}
+.total{
+    width: 80px;
+}
+.del{
+    width: 120px;
+}
+th.productname {
+    font-weight:800;
+    width: 820px;
+}
+th.price {
+    width: 80px;
+}
+th.qty {
+    width: 60px;
+}
+th.total{
+    width: 80px;
+}
+th.del{
+    width: 120px;
+}
+.productname1 {
+    width: 800px;
+}
+.price1 {
+    width: 60px;
+}
+.qty1 {
+    width: 50px;
+}
+.total1{
+    width: 130px;
+    text-align: right;
+    padding-right: 10px;
+}
+.del1{
+    width: 120px;
+}
+#cartForm{
+    padding-top: 10px;  
+}
+#centerForCart{
+    margin: 0 auto 30px;
+    padding: 10px;
+    text-align: center;
+}
+/* Form */
+form.minimal label {
+    display: block;
+    margin: 6px 0;	
+}
+form.minimal input[type="text"],
+form.minimal input[type="textarea"],
+form.minimal input[type="email"],
+form.minimal input[type="number"],
+form.minimal input[type="search"],
+form.minimal input[type="password"],
+form.minimal textarea {
+    background-color: rgb(255,255,255);
+    border: 1px solid rgb( 186, 186, 186 );
+    border-radius: 2px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.08);
+    -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.08);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.08);
+    display: block;
+    font-size: 14px;
+    margin: 6px 0 12px 0;
+    padding: 8px;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 1);
+    width: 96%;
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    -o-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+}
+form.minimal input[type="text"]:focus,
+form.minimal input[type="textarea"]:focus,
+form.minimal input[type="email"]:focus,
+form.minimal input[type="number"]:focus,
+form.minimal input[type="search"]:focus,
+form.minimal input[type="password"]:focus,
+form.minimal textarea:focus,
+form.minimal select:focus { 
+    border-color: #4195fc;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px #4195fc;
+    -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px #4195fc;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px #4195fc;
+    color: rgb(0,0,0);
+}
+form.minimal input[type="text"]:invalid:focus,
+form.minimal input[type="textarea"]:invalid:focus,
+form.minimal input[type="email"]:invalid:focus,
+form.minimal input[type="number"]:invalid:focus,
+form.minimal input[type="search"]:invalid:focus,
+form.minimal input[type="password"]:invalid:focus,
+form.minimal textarea:invalid:focus,
+form.minimal select:invalid:focus { 
+    border-color: rgb(248,66,66);
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px rgb(248,66,66);
+    -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px rgb(248,66,66);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px rgb(248,66,66);
+}
+.progress {
+    width: 1000px;
+    margin: 20px auto;
+    text-align: center;
+}
+.progress .circle,
+.progress .bar {
+    display: inline-block;
+    background: #fff;
+    width: 40px; height: 40px;
+    border-radius: 40px;
+    border: 1px solid #18C9D2;
+}
+.progress .bar {
+    position: relative;
+    width: 90px;
+    height: 6px;
+    top: -33px;
+    margin-left: -7px;
+    margin-right: -7px;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    z-index:1;
+}
+.circle .active{
+    z-index:3; 
+}
+.progress .circle .label {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 32px;
+    margin-top: 3px;
+    color: #32CD70;
+    font-size: 17px;
+
+}
+.progress .circle .title {
+    color: black;
+    font-size: 13px;
+    line-height: 30px;
+    margin-left: -5px;
+}
+
+.progress .bar.done,
+.progress .circle.done {
+    background: #32CD70;
+}
+.progress .bar.active {
+    background: linear-gradient(to right, #EEE 40%, #FFF 60%);
+}
+.progress .circle.done .label {
+    color: #FFF;
+    background: #32CD70;
+    -webkit-box-shadow: 3px 2px 2px 23px rgba(50,205,112,1);
+    -moz-box-shadow: 3px 2px 2px 23px rgba(50,205,112,1);
+    box-shadow: 3px 2px 44px 2px rgba(50,205,112,1);
+}
+.progress .circle.done .title {
+    color: #444;
+}
+.progress .circle.active .label {
+    color: #FFF;
+    background: #3396D7;
+    -webkit-box-shadow: 3px 10px 44px 23px rgba(255,255,255,1);
+    -moz-box-shadow: 3px 10px 44px 23px rgba(255,255,255,1);
+    box-shadow: 3px 10px 44px 23px rgba(255,255,255,1);
+}
+.progress .circle.active .title {
+    color: black;
+}
